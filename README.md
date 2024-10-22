@@ -52,9 +52,9 @@ Ingresa el segundo valor:2
 Para ejecutar la calculadora, puedes usar el siguiente comando en la terminal:
 
 ```bash
-python nombre_del_archivo.py
+python calculadora.py
 ```
-Asegúrate de reemplazar nombre_del_archivo.py con el nombre real del archivo.
+
 
 ## Mejoras Futuras
 1. Implementar una interfaz gráfica de usuario (GUI).
